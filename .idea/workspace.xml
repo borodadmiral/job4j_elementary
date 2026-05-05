@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05c16e09-109d-4968-9033-d95587a7a607" name="Changes" comment="4.2. Заголовок в файле java [#159036 #34631]">
+    <list default="true" id="05c16e09-109d-4968-9033-d95587a7a607" name="Changes" comment="6. Checkstyle [#4123 #34612]">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -148,7 +148,7 @@
       <workItem from="1773657834818" duration="1221000" />
       <workItem from="1777894066790" duration="308000" />
       <workItem from="1777971186245" duration="237000" />
-      <workItem from="1777971442956" duration="143000" />
+      <workItem from="1777971442956" duration="1783000" />
     </task>
     <task id="LOCAL-00001" summary="3.2. Загрузка файлов на github [#243562 #34636]">
       <option name="closed" value="true" />
@@ -206,7 +206,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773658225055</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="6. Checkstyle [#4123 #34612]">
+      <option name="closed" value="true" />
+      <created>1777971667848</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1777971667848</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,7 +236,8 @@
     <MESSAGE value="3.3. Фиксация изменений на github [#243564 #34637]" />
     <MESSAGE value="4.1. Разбор первой программы. [#159033 #34630]" />
     <MESSAGE value="4.2. Заголовок в файле java [#159036 #34631]" />
-    <option name="LAST_COMMIT_MESSAGE" value="4.2. Заголовок в файле java [#159036 #34631]" />
+    <MESSAGE value="6. Checkstyle [#4123 #34612]" />
+    <option name="LAST_COMMIT_MESSAGE" value="6. Checkstyle [#4123 #34612]" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
